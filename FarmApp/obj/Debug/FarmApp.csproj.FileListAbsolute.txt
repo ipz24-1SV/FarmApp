@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\FarmApp\FarmApp\bin\Debug\FarmApp.exe.config
+C:\Users\Admin\source\repos\FarmApp\FarmApp\bin\Debug\FarmApp.exe
+C:\Users\Admin\source\repos\FarmApp\FarmApp\bin\Debug\FarmApp.pdb
+C:\Users\Admin\source\repos\FarmApp\FarmApp\obj\Debug\FarmApp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\FarmApp\FarmApp\obj\Debug\FarmApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FarmApp\FarmApp\obj\Debug\FarmApp.exe
+C:\Users\Admin\source\repos\FarmApp\FarmApp\obj\Debug\FarmApp.pdb
